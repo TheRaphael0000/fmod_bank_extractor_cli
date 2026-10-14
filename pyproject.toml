@@ -1,5 +1,5 @@
 [project]
-name = "FMOD Extractor CLI"
+name = "fmod-bank-extractor-cli"
 version = "0.0.0"
 dependencies = [
   "fsb5",
