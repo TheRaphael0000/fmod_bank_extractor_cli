@@ -1,0 +1,6 @@
+[project]
+name = "FMOD Extractor CLI"
+version = "0.0.0"
+dependencies = [
+  "fsb5",
+]
